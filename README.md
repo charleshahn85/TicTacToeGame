@@ -15,8 +15,14 @@ New developers will often be asked to get up to speed on a project rapidly. It i
 
 1. Now, take 15 minutes to get a big picture of the code in this application and its features.
     * Jot down notes here concerning: classes, objects, encapsulation, abstraction, inheritance, and polymorphism (i.e. if they are used, where they occur, etc.).
+
+The provided code defines the main TicTacToe class, which serves as the blueprint for the entire game application. To function, it relies on other custom classes that you correctly identified—Player, PlayerFactory, and BoardButton—though their code is in separate, unprovided files. You are also right that "JavaFX" is involved, but it's not a single class; rather, it's a large framework or library containing many classes (Application, Button, GridPane, etc.) that the TicTacToe application uses and builds upon. This structure allows the program to effectively use object-oriented principles like inheritance and polymorphism to manage game logic and different player types.
+
 1. Don’t be stuck for too long, if you don't understand a section jot it down below and move on.
     * Jot down part of the code you don't understand here.
+
+      I'm having a hard time understanding all of it
+
     * I'd like each person to jot down at least 2 things unfamiliar to them.
 1. Now Take 5 minutes  and team up with one of your group members and take turns trying to explain what you’ve understood to someone else.
     * Ask if they can answer the items you jotted down in #2.
